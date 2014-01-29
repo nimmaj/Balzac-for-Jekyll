@@ -1,8 +1,9 @@
-title:            Balzac
+title:            Wibble Ftang
 tagline:          A beautiful theme.
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+#url: http://quaffsoft.co.uk
+url: .
 
 # Owner/author information
 owner:
@@ -16,7 +17,7 @@ owner:
   dribbble:       coletownsend
   disqus:         balzac
   # Plug in your disqus shortname!
-  
+
 
 # Links to include in top navigation
 # For external links add external: true
